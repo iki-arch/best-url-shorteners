@@ -5,7 +5,7 @@ URL shortener are used for...
 - **Simplifying Links**: Convert long, complex URLs into shorter, easier-to-share links.
 - **Tracking and Analytics**: Monitor click-through rates, geographic locations, and other metrics.
 - **Branding**: Create custom, branded short links that reinforce your brand identity.
-- 
+
 <img src="https://awesome.re/badge.svg" alt="Awesome">
 
 ## List of Url Shortener
